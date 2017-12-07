@@ -1,0 +1,4 @@
+#Wed Dec 06 23:44:13 CST 2017
+base.0=/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

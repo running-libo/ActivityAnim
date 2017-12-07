@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/Overridependingtransition/app/build/intermediates/res/merged/debug/transition/explode.xml",
+        "source": "/Users/goobird-iOS004/Desktop/Overridependingtransition/app/src/main/res/transition/explode.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/res/merged/debug/transition/slide.xml",
+        "source": "/Users/apple/Desktop/Overridependingtransition/app/src/main/res/transition/slide.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/Overridependingtransition/app/build/intermediates/res/merged/debug/transition/slide.xml",
+        "source": "/Users/goobird-iOS004/Desktop/Overridependingtransition/app/src/main/res/transition/slide.xml"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/res/merged/debug/transition/explode.xml",
+        "source": "/Users/apple/Desktop/Overridependingtransition/app/src/main/res/transition/explode.xml"
+    }
+]

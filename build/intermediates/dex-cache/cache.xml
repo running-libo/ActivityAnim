@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ae8d66e853fc4183a41d9d50cd1d94a7e44f2bd6">
+        <dex dex="/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0871ef4963c4ca75cf684b804d788bda2d780abb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6642d1d788e88da60dfa4da706a8fd230c9ef31c/classes.dex" />
+    </item>
+
+</items>
