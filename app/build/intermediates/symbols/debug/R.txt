@@ -1623,4 +1623,5 @@ int styleable ViewStubCompat_android_id 0
 int styleable ViewStubCompat_android_inflatedId 2
 int styleable ViewStubCompat_android_layout 1
 int transition explode 0x7f060000
-int transition slide 0x7f060001
+int transition fade 0x7f060001
+int transition slide 0x7f060002

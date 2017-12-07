@@ -2888,7 +2888,8 @@ containing a value of this type.
     }
     public static final class transition {
         public static final int explode=0x7f060000;
-        public static final int slide=0x7f060001;
+        public static final int fade=0x7f060001;
+        public static final int slide=0x7f060002;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.

@@ -13,21 +13,21 @@
         android:layout_height="wrap_content"
         android:onClick="customAnim"
         android:text="customAnim"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginTop="10dp"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="scaleUpAnim"
         android:text="scaleUpAnim"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginTop="10dp"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="thumbnailScale"
         android:text="thumbnailScale"
-        android:layout_marginTop="20dp"/>
+        android:layout_marginTop="10dp"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -36,12 +36,18 @@
         android:text="clipRevealAnim"
         android:layout_marginTop="20dp"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="explode"
+        android:text="explode"
+        android:layout_marginTop="20dp"/>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
-        android:layout_marginTop="20dp">
+        android:layout_marginTop="10dp">
 
         <ImageView
             android:id="@+id/imageview"

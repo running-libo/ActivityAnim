@@ -14,5 +14,9 @@
     {
         "merged": "/Users/apple/Desktop/Overridependingtransition/app/build/intermediates/res/merged/debug/transition/explode.xml",
         "source": "/Users/apple/Desktop/Overridependingtransition/app/src/main/res/transition/explode.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/Overridependingtransition/app/build/intermediates/res/merged/debug/transition/fade.xml",
+        "source": "/Users/goobird-iOS004/Desktop/Overridependingtransition/app/src/main/res/transition/fade.xml"
     }
 ]
